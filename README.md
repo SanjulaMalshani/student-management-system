@@ -3,9 +3,13 @@ A sleek, desktop-based application to manage student records effortlessly!
 
 ✨ Features:
 ✔️ Add, Update, Delete student records in real-time
+
 ✔️ Search & Filter students by Roll No., Name, or Contact
+
 ✔️ MySQL Database integration for secure data storage
+
 ✔️ User-Friendly GUI built with Python’s Tkinter
+
 ✔️ Lightweight & Fast – no bloated dependencies
 
 🚀 Perfect for:
